@@ -1,0 +1,17 @@
+fastapi==0.142.2
+uvicorn==0.54.0
+sqlalchemy==2.0.54
+scikit-learn==1.7.2
+pandas==2.3.3
+joblib==1.6.0
+python-multipart
+authlib
+passlib
+pydantic_settings
+pytest
+httpx2
+notebook
+snakeviz
+line_profiler
+locust
+prometheus-fastapi-instrumentator
